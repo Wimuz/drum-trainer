@@ -4,7 +4,7 @@
 ## Summary
 
 The drum trainer provides technical advice to the aspiring drummer based on analysis of a recording.
-Using midi or audio as input the tool analyses the accuracy, synchronicity and dynamics of the recording and provides recommendations.
+Using midi and a user-defined drum pattern as input the tool provides detailed information on accuracy, synchronicity and dynamics of the recording.
 
 
 ## Background
@@ -43,15 +43,10 @@ I can accept this weakness for now and find myself progressing faster with than 
 
 The tool is **intended for beginning to intermediate drummers** to get better at "live" drumming, but could also be used by professionals to detect any issues they may not be aware about.
 
-The tool gives feedback and recommendations such as:
-For example: "Your right feet (bass drum) tends to kick about 100ms before you hit the snare. This causes a flamming sound.
-On unaccented beats your right feet tends to kick 200ms before you intended, giving a rushy impression. Your left hand is irregular playing eights on the hihat. To obrain better accuracy, do the following exercises: ..."
 
-
-## Data sources and AI methods
+## Data sources 
 
 Data source is **midi-output from a digital drumkit** (like Roland, Alesis...).
-With addition of an add-on that converts audio into midi-like commands the tool could also be used with acoustical drums.
 
 ## Challenges
 
@@ -72,6 +67,8 @@ The tool shows detailed graphs and scores, but doesn't give verbal feedback to t
 
 In summary the tool could evolve into a tool that:
 - reads the **input directly from the drum midi-out** (or one step further from converted drum-only **audio signal**)
-- provides **verbal output** to the user (feedback, recommendations, exercise suggestions)
+- provides **verbal output** to the user (feedback, recommendations, exercise suggestions) Example:
+"Your right feet (bass drum) tends to kick about 100ms before you hit the snare. This causes a flamming sound.
+On unaccented beats your right feet tends to kick 200ms before you intended, giving a rushy impression. Your left hand is irregular playing eights on the hihat. To obrain better accuracy, do the following exercises: ..."
 - available as an app on **PC, tablet or smartphone**
 - **gathers information and data from different users**, finds patterns in issues, learns which exercises give fastest results
