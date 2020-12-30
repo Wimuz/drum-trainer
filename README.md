@@ -62,10 +62,13 @@ On unaccented beats your right feet tends to kick 200ms before you intended, giv
 * **collecting information and data from different users** in order to finds patterns in issues, and learn which exercises give fastest results
 * **generating exercises** by extrapolating on other exercises which proved to be effective
 * **examinator game** personalized set of scored exercises in correspondence with user's current level
+* **metronome-less analysis**: the current tool requires the drummer to record with a fixed metronome tempo (in order to get a fixed time reference to calculated the time deviations). A more advanced version would allow to analyse the recording even if the tempo of the recording varies slightly (which would be more realistic in a live environment). This would require a feature that can determine the momentary tempo.
 
 ## Data sources 
 
 Data source is **midi-output from a digital drumkit** (like Roland, Alesis...).
+
+Expanded with AI (see above) extra data sources could be analysis data from different users.
 
 ## Challenges
 
