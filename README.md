@@ -84,6 +84,7 @@ On unaccented beats your right feet tends to kick 200ms before you intended, giv
 * **generating exercises** by extrapolating on other exercises which proved to be effective
 * **examinator game** personalized set of scored exercises in correspondence with user's current level
 * **metronome-less analysis**: the current tool requires the drummer to record with a fixed metronome tempo (in order to get a fixed time reference to calculated the time deviations). A more advanced version would allow to analyse the recording even if the tempo of the recording varies slightly (which would be more realistic in a live environment). This would require a feature that can determine the momentary tempo.
+* **audio input**: the current tool requires midi input. A nice enhancement would be the addition of a feature that can convert audio (drum only) to midi-like commands (instrument, time, velocity). This feature will need to "learn" what is the "timing" of a hit (it is NOT on the onset of the audio pulse but a fraction later... this fraction depends from instrument to instrument and is also related to the type of stick used, the way the instrument is hit, the velocity etc)
 
 ## Data sources 
 
