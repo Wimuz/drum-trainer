@@ -25,7 +25,7 @@ Basically I only have my ears (to listen to my recording) and the very simple ac
 I could also have used the "piano-roll" view on a DAW (Digital Audio Workstation) to monitor the deviations between my drum hits and the metronome clicks and velocities.
 However none of the above methods gives me a quick, "objective" insight in my issues.
 
-In order to get a better and detailed view on my "symptoms" I **developed a simple Excel-based (vba) analyser tool**. The tool as the following features:
+In order to get a better and detailed view on my "symptoms" I **developed a simple Excel-based (vba) analyser tool**. The tool has the following features:
 * **inputs**
   * metronome beats per minute
   * time signature
