@@ -77,7 +77,8 @@ The tool has great potential to be expanded with **AI technology**:
 * providing **verbal output** to the user (feedback, recommendations, exercise suggestions) Example:
 "Your right feet (bass drum) tends to kick about 100ms before you hit the snare. This causes a flamming sound.
 On unaccented beats your right feet tends to kick 200ms before you intended, giving a rushy impression. Your left hand is irregular playing eights on the hihat. To obtain better accuracy, do the following exercises: ..."
-* **collecting information and data from different users** in order to finds patterns in issues, and learn which exercises give fastest results
+* **pattern-less analysis**: the current tool requires a pattern to compare the midi input with. A more advanced version would be able to score any input by "guessing" what the user intended to play, and with which hand/foot he played it. This can be achieved by learning common patterns in the drum world, being able to figure out what would be a logical use of limbs for the pattern and learning how the specific drummer usually plays.
+* **collecting information and data from different users** in order to find patterns in issues, and learn which exercises give fastest results
 * **generating exercises** by extrapolating on other exercises which proved to be effective
 * **examinator game** personalized set of scored exercises in correspondence with user's current level
 * **metronome-less analysis**: the current tool requires the drummer to record with a fixed metronome tempo (in order to get a fixed time reference to calculated the time deviations). A more advanced version would allow to analyse the recording even if the tempo of the recording varies slightly (which would be more realistic in a live environment). This would require a feature that can determine the momentary tempo.
