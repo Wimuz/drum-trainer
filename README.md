@@ -46,7 +46,7 @@ The score is more tolerant for unaccented hits (in real music it's mostly the do
 
 ![Scores](/Scores.png)
 
-**Time deviations per instrument/limb in centiseconds** (red lines are "margins", in this example about +-1.2cs)
+**Time deviations per instrument/limb in centiseconds** (red lines are "margins", in this example about +-2.2cs)
 
 ![Time deviation chart](/Time_deviation_chart.png)
 
