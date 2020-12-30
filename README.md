@@ -26,14 +26,19 @@ I could also have used the "piano-roll" view on a DAW (Digital Audio Workstation
 However none of the above methods gives me a quick, "objective" insight in my issues.
 
 In order to get a better and detailed view on my "symptoms" I **developed a simple Excel-based (vba) analyser tool**. The tool as the following features:
-* inputs:
+* **inputs**
   * metronome beats per minute
   * time signature
+  * time deviation margin (for calculating scores)
   * intended drum pattern (any number of bars, for each instrument indication where left/right hand/foot is expected to hit) (no limitations to complexity of pattern)
-  * midi commands (time, instrument, velocity)
-* outputs:
-  * statistics (average time deviation, standard deviation of time deviations) for each combination limb/instrument)
-  * charts: time deviation vs deviation (for each combination limb/instrument), synchronicity of simultaneous events, velocity vs time (for each combination limb/instrument)
+  * midi commands (time, instrument, velocity), copy/pasted from a simple midi-monitor app which reads midi from USB port
+* **outputs for each combination limb/instrument**
+   * statistics (average time deviation, standard deviation of time deviations)
+   * score (% within margin)
+   * chart: time deviation vs deviation,, velocity vs time (for each combination limb/instrument)
+* **general outputs**
+  * chart synchronicity of simultaneous events
+  * score (% synchronicity within margin)
   * midi roll (to playback, different speeds possible)
 
 So far the tool was **very helpful in helping me to quickly observe my symptoms** (for example my right "kick" foot being too rushy). 
