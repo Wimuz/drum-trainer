@@ -3,8 +3,8 @@
 
 ## Summary
 
-The drum trainer provides technical advice to the aspiring drummer based on analysis of a recording.
-Using midi and a user-defined drum pattern as input the tool provides detailed information on accuracy, synchronicity and dynamics of the recording.
+The drum trainer provides detailed information on accuracy, synchronicity and dynamics of a digital drum recording.
+The tool uses midi and a user-defined drum pattern (instruments and limbs) as main inputs. 
 
 
 ## Background
