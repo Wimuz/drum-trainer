@@ -4,9 +4,8 @@ Drum trainer
 
 ## Summary
 
-The drum trainer provides **technical advice to the aspiring (beginner or intermediate) drummer** based on analysis of a recording.
-The tool records midi or audio, figures out which drum pattern the drum player intended to play, analyses the **accuracy, synchronicity and dynamics** of the recorded pattern, 
-provides feedback to the player and suggests exercises to help solve any issues.
+The drum trainer provides **advice to the aspiring (beginner or intermediate) drummer** based on analysis of a recording.
+Using midi or audio as input the tool analyses the **accuracy, synchronicity and dynamics** of the recording and provides recommendations.
 
 
 ## Background
