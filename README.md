@@ -34,26 +34,27 @@ In order to get a better and detailed view on my "symptoms" I **developed a simp
 
 Some images from a pattern I exercised:
 
-Drum pattern (defined by user)
+**Drum pattern** (defined by user)
 
 R = right accented  L = left accented  r = right unaccented
+
 The score is more tolerant for unaccented hits (in real music it's mostly the downbeats and accents that need to be the most accurate)
 
 ![Drum pattern](/Drum_pattern.png)
 
-Scores per instrument/limb (average, standard deviation, % inside margins)
+**Scores per instrument/limb** (average, standard deviation, % inside margins)
 
 ![Scores](/Scores.png)
 
-Time deviations per instrument/limb in centiseconds (red lines are "margins", in this example about +-1.2cs)
+**Time deviations per instrument/limb in centiseconds** (red lines are "margins", in this example about +-1.2cs)
 
 ![Time deviation chart](/Time_deviation_chart.png)
 
-Synchronicity in case multiple instruments were hit at same time (first hit instrument = 0)
+**Synchronicity** in case multiple instruments were hit at same time (first hit instrument = 0)
 
 ![Synchronicity chart](/Synchronicity_chart.png)
 
-Play dialog (allows to playback any combination of instruments from selected bars, can be slowed down)
+**Play dialog** (allows to playback any combination of instruments from selected bars, can be slowed down)
 
 ![Play dialog](/Play_dialog.png)
 
