@@ -59,8 +59,9 @@ The tool has great potential to be expanded with **AI technology**:
 * providing **verbal output** to the user (feedback, recommendations, exercise suggestions) Example:
 "Your right feet (bass drum) tends to kick about 100ms before you hit the snare. This causes a flamming sound.
 On unaccented beats your right feet tends to kick 200ms before you intended, giving a rushy impression. Your left hand is irregular playing eights on the hihat. To obtain better accuracy, do the following exercises: ..."
-* **collecting information and data from different users** in order to finds patterns in issues, learns which exercises give fastest results
-* **generating exercises** learning from other exercises which proved to be effective
+* **collecting information and data from different users** in order to finds patterns in issues, and learn which exercises give fastest results
+* **generating exercises** by extrapolating on other exercises which proved to be effective
+* **examinator game** personalized set of scored exercises in correspondence with user's current level
 
 ## Data sources 
 
@@ -68,14 +69,15 @@ Data source is **midi-output from a digital drumkit** (like Roland, Alesis...).
 
 ## Challenges
 
-This tool will only be able to provide feedback on the "symptoms" observed (such as kicking the drum bass to early). 
-However it will not be able to observe any of the causes (such as position of the player, motorics of the limbs etc)
+* This tool will only be able to provide **feedback on the "symptoms"** observed (such as kicking the drum bass to early, hands being uneven etc). 
+However it **will not be able to observe any of the causes underlying these symptoms** (such as position of the player, motorics of the limbs etc)
+Even in my experience the volume of the metronome can affect the performance! (the louder the metronome, the better the result...)
 
-This tool is not intended to evaluate musicality. In real live performance human accuracy, synchronicity and dynamics "errors" may give a nice flavour to a performance, and sometimes even intended. Moreover today's DAW's (Digital Audio Workstations) can easily "humanize" or "de-humanize" (quantize) recorded input.
+* The **current version of the tool requires some understanding of statistics and being able to read X-Y charts**. Though basic, not every drummer will be familiar with interpreting such information or "like" this. Therefore a more "human" approach to provide feedback is required (see AI below).
 
-Nor does the tool intend to replace a human professional teacher. 
+* This tool is **not intended to evaluate musicality**. In real live performance human accuracy, synchronicity and dynamics "errors" may give a nice flavour to a performance, and sometimes even intended. Moreover today's DAW's (Digital Audio Workstations) can easily "humanize" or "de-humanize" (quantize) recorded input.
 
-The sole purpose of the tool is to assist partly in building a solid drum technique as a foundation for good musical live performances.
+* The tool **will not be able to replace a human professional teacher (nor does it intend it)**. The sole purpose of the tool is to have an extra toolbox for building a solid drum technique as a foundation for good musical live performances.
 
 
 ## What next?
@@ -84,9 +86,8 @@ The tool is Excel-based, but is not user friendly. The input cannot be taken dir
 The tool shows detailed graphs and scores, but doesn't give verbal feedback to the user in a friendly way, nor does it suggest exercises.
 
 In summary the tool could evolve into a tool that:
-- reads the **input directly from the drum midi-out** (or one step further from converted drum-only **audio signal**)
-- provides **verbal output** to the user (feedback, recommendations, exercise suggestions) Example:
-"Your right feet (bass drum) tends to kick about 100ms before you hit the snare. This causes a flamming sound.
-On unaccented beats your right feet tends to kick 200ms before you intended, giving a rushy impression. Your left hand is irregular playing eights on the hihat. To obtain better accuracy, do the following exercises: ..."
-- available as an app on **PC, tablet or smartphone**
-- **gathers information and data from different users**, finds patterns in issues, learns which exercises give fastest results
+* reads the **input directly from the drum midi-out** (or one step further from converted drum-only **audio signal**)
+* provides **verbal output** to the user (feedback, recommendations, exercise suggestions) 
+* available as an app on **PC, tablet or smartphone**
+* **gathers information and data from different users**
+* **generates effective exercises** and personalized **exams**
