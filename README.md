@@ -1,10 +1,9 @@
-# Project Title
+# Drum trainer
 
-Drum trainer
 
 ## Summary
 
-The drum trainer provides **advice to the aspiring (beginner or intermediate) drummer** based on analysis of a recording.
+The drum trainer provides **technical advice to the aspiring drummer** based on analysis of a recording.
 Using midi or audio as input the tool analyses the **accuracy, synchronicity and dynamics** of the recording and provides recommendations.
 
 
