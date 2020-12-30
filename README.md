@@ -50,6 +50,8 @@ The score is more tolerant for unaccented hits (in real music it's mostly the do
 
 The better the drummer the lower the margin should be set (for a "fair" score)
 
+Note that the below chart is quite a good result, but it took me quite some effort to get there. Previous charts were more messy with lots of dots outside of the margins.
+
 ![Time deviation chart](/Time_deviation_chart.png)
 
 **Synchronicity** in case multiple instruments were hit at same time (first hit instrument = 0)
