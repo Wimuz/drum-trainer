@@ -25,8 +25,16 @@ Basically I only have my ears (to listen to my recording) and the very simple ac
 I could also have used the "piano-roll" view on a DAW (Digital Audio Workstation) to monitor the deviations between my drum hits and the metronome clicks and velocities.
 However none of the above methods gives me a quick, "objective" insight in my issues.
 
-In order to get a better and detailed view on my "symptoms" I **developed a simple Excel-based (vba) analyser tool**. It shows me **graphically, statistically and with % scores** where my main issues are located by comparing with a user-defined drum pattern (can be any pattern (rock, funk, samba...), any time signature...).
-For example the tool produces a chart with on the X-axis the time and on the Y-axis deviations (vs metronome) per instrument/hand.
+In order to get a better and detailed view on my "symptoms" I **developed a simple Excel-based (vba) analyser tool**. The tool as the following features:
+* inputs:
+  * metronome beats per minute
+  * time signature
+  * intended drum pattern (any number of bars, for each instrument indication where left/right hand/foot is expected to hit) (no limitations to complexity of pattern)
+  * midi commands (time, instrument, velocity)
+* outputs:
+  * statistics (average time deviation, standard deviation of time deviations) for each combination limb/instrument)
+  * charts: time deviation vs deviation (for each combination limb/instrument), synchronicity of simultaneous events, velocity vs time (for each combination limb/instrument)
+  * midi roll (to playback, different speeds possible)
 
 So far the tool was **very helpful in helping me to quickly observe my symptoms** (for example my right "kick" foot being too rushy). 
 After observing a symptom I try to "diagnose" it and find ways to cope with it (adjusting set-up such as position/height of throne, adjusting position of devices, isolated exercises etc.)
