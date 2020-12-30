@@ -5,12 +5,12 @@ Drum trainer
 ## Summary
 
 The drum trainer provides technical advice to the aspiring (beginner or intermediate) drummer based on analysis of a recording.
-The tool records midi or audio, figures out which drum pattern the drum player intended to play, analyses the accuracy and synchronicity of the recorded pattern, 
+The tool records midi or audio, figures out which drum pattern the drum player intended to play, analyses the accuracy, synchronicity and dynamics of the recorded pattern, 
 provides feedback to the player and suggests exercises to help solve any issues.
 For example: "Your right feet (bass drum) tends to kick about 100ms before you hit the snare. This causes a flamming sound.
 On unaccented beats your right feet tends to kick 200ms before you intended, giving a rushy impression. To obrain better accuracy, do the following exercises: ..."
 
-This tool is not intended to evaluate musicality. In real live performance human accuracy and synchronicity "errors" may give a nice flavour to a performance, and sometimes even intended. Moreover today's DAW's (Digital Audio Workstations) can easily "humanize" or "de-humanize" (quantize) recorded input.
+This tool is not intended to evaluate musicality. In real live performance human accuracy, synchronicity and dynamics "errors" may give a nice flavour to a performance, and sometimes even intended. Moreover today's DAW's (Digital Audio Workstations) can easily "humanize" or "de-humanize" (quantize) recorded input.
 
 Nor does the tool intend to replace a human professional teacher. 
 
@@ -19,10 +19,10 @@ The sole purpose of the tool is to assist partly in building a solid drum techni
 
 ## Background
 
-A beginner drummer myself since a few weeks (digital Roland drumkit) I was confronted from the beginning with issues related to timing accuracy and synchronisation between limbs.
+A beginner drummer myself since a few weeks (digital Roland drumkit) I was confronted from the beginning with issues related to timing accuracy and synchronisation between limbs. Also my dynamics are not in control (for example hitting harder on the hihat when I hit my kick at the same time)
 This of course is very normal for a beginner drummer. I have no (human) teacher to give me feedback/correct me on those issues.
 Basically I only have my ears (to listen to my recording) and the very simple accuracy scorer built-in into the digital drum module.
-I could also have used the "piano-roll" view on a DAW (Digital Audio Workstation) to monitor the deviations between my drum hits and the metronome clicks.
+I could also have used the "piano-roll" view on a DAW (Digital Audio Workstation) to monitor the deviations between my drum hits and the metronome clicks and velocities.
 However none of the above methods gives me a quick, "objective" insight in my issues.
 
 In order to get a better and detailed view on my "symptoms" I developed a simple Excel-based (vba) analyser tool. It shows me graphically, statistically and with % scores where my main issues are located by comparing with a user-defined drum pattern (can be any pattern (rock, funk, samba...), any time signature...).
