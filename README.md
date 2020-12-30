@@ -8,7 +8,7 @@ The drum trainer provides technical advice to the aspiring (beginner or intermed
 The tool records midi or audio, figures out which drum pattern the drum player intended to play, analyses the accuracy and synchronicity of the recorded pattern, 
 provides feedback to the player and suggests exercises to help solve any issues.
 For example: "Your right feet (bass drum) tends to kick about 100ms before you hit the snare. This causes a flamming sound.
-On unaccented beats your right feet tends to kick 200ms before you intended, giving a rushy impression. To get better accuracy, do the following exercises: ..."
+On unaccented beats your right feet tends to kick 200ms before you intended, giving a rushy impression. To obrain better accuracy, do the following exercises: ..."
 
 This tool is not intended to evaluate musicality. In real live performance human accuracy and synchronicity "errors" may give a nice flavour to a performance, and sometimes even intended. Moreover today's DAW's (Digital Audio Workstations) can easily "humanize" or "de-humanize" (quantize) recorded input.
 
