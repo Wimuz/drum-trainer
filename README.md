@@ -7,14 +7,6 @@ Drum trainer
 The drum trainer provides **technical advice to the aspiring (beginner or intermediate) drummer** based on analysis of a recording.
 The tool records midi or audio, figures out which drum pattern the drum player intended to play, analyses the **accuracy, synchronicity and dynamics** of the recorded pattern, 
 provides feedback to the player and suggests exercises to help solve any issues.
-For example: "Your right feet (bass drum) tends to kick about 100ms before you hit the snare. This causes a flamming sound.
-On unaccented beats your right feet tends to kick 200ms before you intended, giving a rushy impression. Your left hand is irregular playing eights on the hihat. To obrain better accuracy, do the following exercises: ..."
-
-This tool is not intended to evaluate musicality. In real live performance human accuracy, synchronicity and dynamics "errors" may give a nice flavour to a performance, and sometimes even intended. Moreover today's DAW's (Digital Audio Workstations) can easily "humanize" or "de-humanize" (quantize) recorded input.
-
-Nor does the tool intend to replace a human professional teacher. 
-
-The sole purpose of the tool is to **assist partly in building a solid drum technique as a foundation for good musical live performances**.
 
 
 ## Background
@@ -53,6 +45,10 @@ I can accept this weakness for now and find myself progressing faster with than 
 
 The tool is **intended for beginning to intermediate drummers** to get better at "live" drumming, but could also be used by professionals to detect any issues they may not be aware about.
 
+The tool gives feedback and recommendations such as:
+For example: "Your right feet (bass drum) tends to kick about 100ms before you hit the snare. This causes a flamming sound.
+On unaccented beats your right feet tends to kick 200ms before you intended, giving a rushy impression. Your left hand is irregular playing eights on the hihat. To obrain better accuracy, do the following exercises: ..."
+
 
 ## Data sources and AI methods
 
@@ -63,6 +59,12 @@ With addition of an add-on that converts audio into midi-like commands the tool 
 
 This tool will only be able to provide feedback on the "symptoms" observed (such as kicking the drum bass to early). 
 However it will not be able to observe any of the causes (such as position of the player, motorics of the limbs etc)
+
+This tool is not intended to evaluate musicality. In real live performance human accuracy, synchronicity and dynamics "errors" may give a nice flavour to a performance, and sometimes even intended. Moreover today's DAW's (Digital Audio Workstations) can easily "humanize" or "de-humanize" (quantize) recorded input.
+
+Nor does the tool intend to replace a human professional teacher. 
+
+The sole purpose of the tool is to assist partly in building a solid drum technique as a foundation for good musical live performances.
 
 
 ## What next?
