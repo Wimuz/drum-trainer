@@ -4,7 +4,7 @@
 ## Summary
 
 The drum trainer provides detailed information on accuracy, synchronicity and dynamics of a digital drum recording.
-The tool uses midi and a user-defined drum pattern (instruments and limbs) as main inputs. 
+The tool uses midi and a user-defined drum pattern (instruments and limbs) as main inputs. AI learning should enhance the tool.
 
 
 ## Background
@@ -30,6 +30,7 @@ In order to get a better and detailed view on my "symptoms" I **developed a simp
   * chart synchronicity of simultaneous events
   * score (% synchronicity within margin)
   * midi roll (to playback, different speeds possible)
+  * full analysis history
   
 ![Drum pattern](/Drum_pattern.png)
 
@@ -43,6 +44,7 @@ In order to get a better and detailed view on my "symptoms" I **developed a simp
 
 So far the tool was **very useful in helping me to quickly observe my symptoms** (for example my right "kick" foot being too rushy). 
 After observing a symptom I try to "diagnose" it and find ways to cope with it (adjusting set-up such as position/height of throne, adjusting position of devices, isolated exercises etc.)
+
 The overall result for myself is (in my opinion) a steeper learning curve compared to not using this tool.
 The **tool helps me to tackle an issue from the very beginning**. Without this tool I would learn wrong habits, which would be difficult to get rid of later.
 The weak link in this issue solving chain is still the absence of a human teacher who would teach me the right way to solve an issue.
@@ -53,6 +55,12 @@ I can accept this weakness for now and find myself progressing faster with than 
 
 The tool is **intended for beginning to intermediate drummers** to get better at "live" drumming, but could also be used by professionals to detect any issues they may not be aware about.
 
+The tool has great potential to be expanded with **AI technology**:
+* providing **verbal output** to the user (feedback, recommendations, exercise suggestions) Example:
+"Your right feet (bass drum) tends to kick about 100ms before you hit the snare. This causes a flamming sound.
+On unaccented beats your right feet tends to kick 200ms before you intended, giving a rushy impression. Your left hand is irregular playing eights on the hihat. To obtain better accuracy, do the following exercises: ..."
+* **collecting information and data from different users** in order to finds patterns in issues, learns which exercises give fastest results
+* **generating exercises** learning from other exercises which proved to be effective
 
 ## Data sources 
 
