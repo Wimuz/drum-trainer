@@ -31,7 +31,7 @@ In order to get a better and detailed view on my "symptoms" I **developed a simp
   * score (% synchronicity within margin)
   * midi roll (to playback, different speeds possible)
   
-  ![Drum pattern](/Drum pattern.png)
+  ![Drum pattern](/Drum_pattern.png)
 
 So far the tool was **very useful in helping me to quickly observe my symptoms** (for example my right "kick" foot being too rushy). 
 After observing a symptom I try to "diagnose" it and find ways to cope with it (adjusting set-up such as position/height of throne, adjusting position of devices, isolated exercises etc.)
