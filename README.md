@@ -3,8 +3,8 @@
 
 ## Summary
 
-The drum trainer provides **technical advice to the aspiring drummer** based on analysis of a recording.
-Using midi or audio as input the tool analyses the **accuracy, synchronicity and dynamics** of the recording and provides recommendations.
+The drum trainer provides technical advice to the aspiring drummer based on analysis of a recording.
+Using midi or audio as input the tool analyses the accuracy, synchronicity and dynamics of the recording and provides recommendations.
 
 
 ## Background
