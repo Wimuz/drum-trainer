@@ -1,14 +1,20 @@
 # Project Title
 
-Drums trainer
+Drum trainer
 
 ## Summary
 
-The drum trainer provides advice to the aspiring (beginner or intermediate) drummer based on analysis of a recording.
+The drum trainer provides technical advice to the aspiring (beginner or intermediate) drummer based on analysis of a recording.
 The tool records midi or audio, figures out which drum pattern the drum player intended to play, analyses the accuracy and synchronicity of the recorded pattern, 
 provides feedback to the player and suggests exercises to help solve any issues.
 For example: "Your right feet (bass drum) tends to kick about 100ms before you hit the snare. This causes a flamming sound.
-On unaccented beats your right feet tends to kick 200ms before you intended. To get better accuracy, do the following exercises: ..."
+On unaccented beats your right feet tends to kick 200ms before you intended, giving a rushy impression. To get better accuracy, do the following exercises: ..."
+
+This tool is not intended to evaluate musicality. In real live performance human accuracy and synchronicity "errors" may give a nice flavour to a performance, and sometimes even intended. Moreover today's DAW's (Digital Audio Workstations) can easily "humanize" or "de-humanize" (quantize) recorded input.
+
+Nor does the tool intend to replace a human professional teacher. 
+
+The sole purpose of the tool is to assist partly in building a solid drum technique as a foundation for good musical live performances.
 
 
 ## Background
@@ -19,8 +25,8 @@ Basically I only have my ears (to listen to my recording) and the very simple ac
 I could also have used the "piano-roll" view on a DAW (Digital Audio Workstation) to monitor the deviations between my drum hits and the metronome clicks.
 However none of the above methods gives me a quick, "objective" insight in my issues.
 
-In order to get a better and detailed view on my "symptoms" I developed a simple Excel-based (vba) analyser tool. It shows me graphically, statistically and with % scores where my main issues are located by comparing with a pre-set pattern.
-For example a chart with on the X-axis the time and on the Y-axis deviations (vs metronome) per instrument/hand .
+In order to get a better and detailed view on my "symptoms" I developed a simple Excel-based (vba) analyser tool. It shows me graphically, statistically and with % scores where my main issues are located by comparing with a user-defined drum pattern (can be any pattern (rock, funk, samba...), any time signature...).
+For example the tool produces a chart with on the X-axis the time and on the Y-axis deviations (vs metronome) per instrument/hand.
 
 So far the tool was very helpful in helping me to quickly observe my symptoms (for example my right "kick" foot being too rushy). 
 After observing a symptom I try to "diagnose" it and find ways to cope with it (adjusting set-up such as position/height of throne, adjusting position of devices, isolated exercises etc.)
@@ -32,7 +38,7 @@ I can accept this weakness for now and find myself progressing faster with than 
 
 ## How is it used?
 
-The tool is intended for beginning to intermediate drummers, but could also be used by professionals to detect any issues they may not be aware about.
+The tool is intended for beginning to intermediate drummers to get better at "live" drumming, but could also be used by professionals to detect any issues they may not be aware about.
 
 
 ## Data sources and AI methods
@@ -44,6 +50,7 @@ With addition of an add-on that converts audio into midi-like commands the tool 
 
 This tool will only be able to provide feedback on the "symptoms" observed (such as kicking the drum bass to early). 
 However it will not be able to observe any of the causes (such as position of the player, motorics of the limbs etc)
+
 
 ## What next?
 
