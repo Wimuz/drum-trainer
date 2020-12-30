@@ -20,7 +20,7 @@ In order to get a better and detailed view on my "symptoms" I **developed a simp
   * metronome beats per minute
   * time signature
   * time deviation margin (for calculating scores)
-  * intended drum pattern (any number of bars, for each instrument indication where left/right hand/foot is expected to hit) (no limitations to complexity of pattern)
+  * intended drum pattern (any number of bars, for each instrument indication where left/right hand/foot is expected to hit, accented/unaccented hits) (no limitations to complexity of pattern)
   * midi commands (time, instrument, velocity), copy/pasted from a simple midi-monitor app which reads midi from USB port
 * **outputs for each combination limb/instrument**
    * statistics (average time deviation, standard deviation of time deviations)
