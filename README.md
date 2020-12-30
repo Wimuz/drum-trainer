@@ -31,15 +31,22 @@ In order to get a better and detailed view on my "symptoms" I **developed a simp
   * score (% synchronicity within margin)
   * midi roll (to playback, different speeds possible)
   * full analysis history
-  
+
+Some images:
+
+Drum pattern (defined by user)
 ![Drum pattern](/Drum_pattern.png)
 
+Scores per instrument/limb
 ![Scores](/Scores.png)
 
+Time deviations per instrument/limb in centiseconds (red lines are "margins", in this example about +-1.2cs)
 ![Time deviation chart](/Time_deviation_chart.png)
 
-![Syncronicity chart](/Synchronicity_chart.png)
+Synchronicity in case multiple instruments were hit at same time (first hit instrument = 0)
+![Synchronicity chart](/Synchronicity_chart.png)
 
+Play dialog (allows to playback any combination of instruments from selected bars, can be slowed down)
 ![Play dialog](/Play_dialog.png)
 
 So far the tool was **very useful in helping me to quickly observe my symptoms** (for example my right "kick" foot being too rushy). 
