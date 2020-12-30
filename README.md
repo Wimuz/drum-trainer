@@ -10,11 +10,11 @@ provides feedback to the player and suggests exercises to help solve any issues.
 For example: "Your right feet (bass drum) tends to kick about 100ms before you hit the snare. This causes a flamming sound.
 On unaccented beats your right feet tends to kick 200ms before you intended, giving a rushy impression. Your left hand is irregular playing eights on the hihat. To obrain better accuracy, do the following exercises: ..."
 
-This tool is **not intended to evaluate musicality**. In real live performance human accuracy, synchronicity and dynamics "errors" may give a nice flavour to a performance, and sometimes even intended. Moreover today's DAW's (Digital Audio Workstations) can easily "humanize" or "de-humanize" (quantize) recorded input.
+This tool is not intended to evaluate musicality. In real live performance human accuracy, synchronicity and dynamics "errors" may give a nice flavour to a performance, and sometimes even intended. Moreover today's DAW's (Digital Audio Workstations) can easily "humanize" or "de-humanize" (quantize) recorded input.
 
 Nor does the tool intend to replace a human professional teacher. 
 
-The sole purpose of the tool is to assist partly in building a solid drum technique as a foundation for good musical live performances.
+The sole purpose of the tool is to **assist partly in building a solid drum technique as a foundation for good musical live performances**.
 
 
 ## Background
