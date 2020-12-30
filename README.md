@@ -3,7 +3,7 @@
 
 ## Summary
 
-The drum trainer provides detailed information on accuracy, synchronicity and dynamics of a digital drum recording.
+The drum trainer provides detailed information on accuracy, synchronicity and dynamics of a live drum recording.
 The tool uses midi and a user-defined drum pattern (instruments and limbs) as main inputs. AI learning should enhance the tool.
 
 
