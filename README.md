@@ -17,7 +17,7 @@ A beginner drummer myself since a few weeks (digital Roland drumkit) I was confr
 This of course is very normal for a beginner drummer. I have no (human) teacher to give me feedback/correct me on those issues.
 Basically I only have my ears (to listen to my recording) and the very simple accuracy scorer built-in into the digital drum module.
 I could also have used the "piano-roll" view on a DAW (Digital Audio Workstation) to monitor the deviations between my drum hits and the metronome clicks.
-However none of the above methods gives me a quick insight in my issues.
+However none of the above methods gives me a quick, "objective" insight in my issues.
 
 In order to get a better and detailed view on my "symptoms" I developed a simple Excel-based (vba) analyser tool. It shows me graphically, statistically and with % scores where my main issues are located by comparing with a pre-set pattern.
 For example a chart with on the X-axis the time and on the Y-axis deviations (vs metronome) per instrument/hand .
