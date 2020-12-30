@@ -12,7 +12,7 @@ The tool uses midi and a user-defined drum pattern (instruments and limbs) as ma
 A **beginner drummer myself** since a few weeks (digital Roland drumkit) I was faced from the beginning with issues related to timing accuracy and synchronisation between limbs. Also I have insufficient control over dynamics and independence (for example hitting harder on the hihat when I hit my kick at the same time).
 This of course is very normal for a beginner drummer. I have no (human) teacher to give me feedback/correct me on those issues.
 Basically I only have my ears (to listen to my recording) and the very simple accuracy scorer built-in into the digital drum module.
-I could also have used the "piano-roll" view on a DAW (Digital Audio Workstation) to monitor the deviations between my drum hits and the metronome clicks and velocities.
+I could also have used the "piano-roll" view on a DAW (Digital Audio Workstation) to monitor the deviations between my drum hits and the metronome clicks and to measure the velocities (=dynamics).
 However none of the above methods gives me a quick, "objective" insight in my issues.
 
 In order to get a better and detailed view on my "symptoms" I **developed a simple Excel-based (vba) analyser tool**. The tool has the following features:
