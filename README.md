@@ -66,7 +66,7 @@ So far the tool was **very useful in helping me to quickly observe my symptoms**
 After observing a symptom I try to "diagnose" it and find ways to cope with it (adjusting set-up such as position/height of throne, adjusting position of devices, isolated exercises etc.)
 
 The overall result for myself is (in my opinion) a steeper learning curve compared to not using this tool.
-The **tool helps me to tackle an issue from the very beginning**. Without this tool I would learn wrong habits, which would be difficult to get rid of later.
+The **tool helps me to tackle an issue with a given pattern from the very beginning**. Without this tool I would learn wrong habits, which would be difficult to get rid of later.
 The weak link in this issue solving chain is still the absence of a human teacher who would teach me the right way to solve an issue.
 I can accept this weakness for now and find myself progressing faster with than without the tool.
 
